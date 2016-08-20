@@ -10,7 +10,7 @@ Language : C
 
 Map format : X Y Z
 
-Requirement : MinilibiX iOS on native.
+Requirement : MinilibX OSx on native.
 
 
 ![alt tag](https://github.com/flevesqu42/42_mod1/blob/master/ressources/github_ressources/Screen%20Shot%202016-08-19%20at%207.37.18%20AM.png?raw=true)
