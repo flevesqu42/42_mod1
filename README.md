@@ -4,8 +4,6 @@ Subject : https://github.com/flevesqu42/42_mod1/blob/master/ressources/github_re
 
 Release date : 04/15/2016
 
-Submit in : two weeks.
-
 Language : C
 
 Map format : X Y Z
